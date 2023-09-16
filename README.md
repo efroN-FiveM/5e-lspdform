@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">• Custom DrawText Included<br>• Optimized 0.01 Resmon while being used (0.00 idle)<br>• Clean UI<br>• Multiple moneywash location (can be added in the config<br>• Built-in logs system</p>
+<p align="left">• Custom DrawText Included<br>• Optimized 0.01 Resmon while being used (0.00 idle)<br>• Clean UI<br>• Multiple location (can be added in the client)<br>• Built-in logs system</p>
 
 ###
 
